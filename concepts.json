@@ -1,0 +1,26 @@
+{
+  "Manchukuo": {
+    "terms": ["Manchukuo", "Manchoukuo", "Manzhouguo", "Manshūkoku", "Manshukoku", "Manchuria", "滿洲國", "满洲国", "満洲国", "偽滿", "伪满"],
+    "core": "Manchuria",
+    "headings": [
+      "Manchuria (China) -- History",
+      "Japan -- Colonies -- Administration",
+      "Fascism -- Asia",
+      "China -- History -- Republic, 1912-1949",
+      "Minami Manshū Tetsudō Kabushiki Kaisha"
+    ],
+    "note": "Starter list. Check the romanizations and headings against what he actually sees in records."
+  },
+  "Banditry": {
+    "terms": ["bandits China", "banditry China", "tufei", "t'u-fei", "土匪", "胡匪", "马贼", "馬賊", "匪賊", "红胡子", "紅鬍子"],
+    "core": "China",
+    "headings": ["Brigands and robbers -- China", "Brigands and robbers -- Manchuria (China)", "Secret societies -- China"],
+    "note": "Starter list."
+  },
+  "Agrarian revolution": {
+    "terms": ["agrarian revolution China", "land reform China", "peasant movement China", "土地革命", "土地改革", "土改", "农民运动", "農民運動"],
+    "core": "China",
+    "headings": ["Land reform -- China", "Peasants -- China -- Political activity", "Communism -- China", "Communist Party of the United States of America"],
+    "note": "Starter list. The CPUSA heading is there to catch Tamiment-style material filed under US labor history."
+  }
+}
